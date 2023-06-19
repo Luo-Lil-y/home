@@ -1,0 +1,191 @@
+
+
+
+
+body
+{
+
+
+	background-image: linear-gradient(black, #070428, #0A032D, #4A0A53, #4A0A53, #0A032D, #070428, black);
+	margin: 0;
+	overflow-x: hidden;
+	text-align: center;
+
+
+/* header */
+}
+
+header
+
+{	
+	background-color: #000000;
+	padding: 15px;
+	box-shadow: 0 0 3px #000000;
+	
+
+
+
+
+}
+
+
+header li
+
+{
+	display: inline; 
+	padding-left: 45px;
+
+
+}
+
+
+header li a
+
+{
+ 	color: #000000;
+ 	text-decoration: none;
+ 	padding: 13px;
+
+
+}
+
+
+
+
+header ul #Home a
+{
+	color: #D8BFD8;
+	background-color: #CC1D7C;
+	border-radius: 12px;
+	font-family: Arial;
+
+}
+
+header ul #Citations a
+{
+	color: #D8BFD8;
+	background-color: #CC1D7C;
+	border-radius: 12px;
+	font-family: Arial;
+
+}
+
+header ul #Plot a
+{
+	color: #D8BFD8;
+	background-color: #CC1D7C;
+	border-radius: 12px;
+	font-family: Arial;
+
+
+
+}
+
+
+
+h1, h2, h3, h4, h5, h6
+
+{
+
+	color: #CC1D7C;
+	font-family: "Monaco";
+	text-align:center;
+
+
+
+}
+
+
+/*end of header  */
+
+
+li
+{
+
+	color:#DA70D6;
+	text-align: center;
+
+
+}
+
+.parent {
+  text-align: center;
+  font-family: "Times new roman";
+  font-size: 20px;
+}
+.parent > ul, ol {
+  display: inline-block;
+}
+
+/* table elements */
+table
+
+
+{
+	color:#DA70D6;
+	text-align: center;
+	font-family: Monaco;
+
+
+
+
+
+}
+
+
+
+
+
+
+.center, th, td
+
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	border: 2px dotted;
+	border-color: #CC1D7C;
+	border-radius: 12px;
+	
+
+
+
+}
+
+/*end of table elements  */
+
+img
+
+{
+
+	width: 100%;
+
+}
+
+
+img.Validator
+{
+	width: 90px;
+}
+
+p
+
+{
+
+	color: #DA70D6;
+	font-size: 20px;
+
+
+}
+
+/*embedded video*/
+iframe
+
+{
+	width: 1120px;
+	height: 630px;
+
+}
+
+
+
